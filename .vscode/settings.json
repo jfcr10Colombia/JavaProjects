@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "src/prueba_condicionales",
+        "src/interfaz",
+        "src/herencia",
+        "src/POO1",
+        "src/Cps12",
+        "src/clase12"
+    ]
+}
