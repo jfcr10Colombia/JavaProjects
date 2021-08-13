@@ -1,5 +1,7 @@
 import java.util.*;
-//new comment since office pc
+
+//comment since github office PC
+>>>>>>> f382f30b9fef75b477b4da5d8acd92aac02347f4
 public class ejercicio1 
 {
     public static void main(String[] args) 
