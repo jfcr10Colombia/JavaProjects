@@ -1,4 +1,4 @@
-//package Cps12;
+//comment test 12/08/2021 ;
 /*Diseñar un programa que:
 
 ●	Consulte el número de productos de tipo de prendas de vestir a manejar.
