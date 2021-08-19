@@ -6,6 +6,12 @@ public class Empleado {
     protected String tipoContrato;
     protected int salario;
     final protected double auxilio =106454;
+    public Empleado(String nombre,String tipoContrato,int salario)
+    {
+        setNombre(nombre);
+        setTipoContrato(tipoContrato);
+        setSalario(salario);
+    }
   
     public int getId() {
         return id;
@@ -31,12 +37,7 @@ public class Empleado {
     public void setSalario(int salario) {
         this.salario = salario;
     }
-    public Empleado(String nombre,String tipoContrato,int salario)
-    {
-        setNombre(nombre);
-        setTipoContrato(tipoContrato);
-        setSalario(salario);
-    }
+    
     public double liquidarSalud(Empleado empleado)
     {
         return (empleado.salario*0.085+empleado.salario*0.12+empleado.salario*0.00522);
