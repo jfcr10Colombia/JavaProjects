@@ -6,6 +6,7 @@ public class Doctor extends Empleado
     public Doctor(String nombre, String tipoContrato, int salario,String especialidad) 
     {
         super(nombre, tipoContrato, salario);        
+        setEspecialidad(especialidad);
     }
     public String getEspecialidad() {
         return especialidad;
