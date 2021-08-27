@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\SOLUMEK JURIDICA\Desktop\jfcr\pantalla\env"
+VIRTUAL_ENV="C:\Users\jfcr\Desktop\mision tic\ciclo 2\programacion\creacion_proyecto_1\pantalla\env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

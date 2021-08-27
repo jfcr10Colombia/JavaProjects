@@ -4,7 +4,7 @@ from lcdApi import LcdApi
 #from machine import I2C
 from time import sleep_ms
 
-DEFAULT_I2C_ADDR = 0x20
+DEFAULT_I2C_ADDR = 0x39
 
 # Defines shifts or masks for the various LCD line attached to the PCF8574
 

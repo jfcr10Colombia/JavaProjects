@@ -37,7 +37,7 @@ from time import sleep_ms
 from machine import I2C, Pin 
 import i2clcd
 
-DEFAULT_I2C_ADDR = 0x20
+DEFAULT_I2C_ADDR = 0x39
 i2c = I2C(scl=Pin(22), sda=Pin(21), freq=400000) 
 lcd = i2clcd.I2cLcd(i2c, DEFAULT_I2C_ADDR, 2, 16)
 lcd.clear()

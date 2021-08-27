@@ -9,3 +9,10 @@ https://www.bolymin.com.tw/uploadfiles/862/IC-Controller-Datasheet/rw1063-0a-001
 https://www.bolymin.com.tw/uploadfiles/862/IC-Controller-Datasheet/rw1063-0a-001-v0.4_130122.pdf
 https://www.ti.com/lit/ds/symlink/pcf8574.pdf
 https://www.nxp.com/docs/en/data-sheet/PCF8574_PCF8574A.pdf
+
+
+video raspberry y esp micropython
+
+https://www.youtube.com/watch?v=LItF6_U9Vsg
+
+https://controlautomaticoeducacion.com/micropython/lcd-i2c-raspberry-pi-pico/
